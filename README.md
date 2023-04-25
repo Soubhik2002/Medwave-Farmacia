@@ -2,5 +2,5 @@
 
 # MedWave Pharmacy
 
-
+Welcome to my pharmacy website! This web application provides an intuitive way for customers to browse and purchase medications, medical supplies, and healthcare products. This project was developed using modern web technologies, including HTML,CSS,JS,Bootsratp to provide a responsive and user-friendly experience.
 
