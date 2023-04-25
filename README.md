@@ -3,7 +3,7 @@
 # MedWave Pharmacy
 
 Welcome to my MedWave Pharmacy. this a Frontend based pharmacy website .This web application provides an intuitive way for customers to browse and purchase medications, medical supplies, and healthcare products. This project was developed using modern web technologies, including HTML,CSS,JS,Bootsratp to provide a responsive and user-friendly experience.
-Website Demo Video link : 
+Website Demo Video link : https://youtu.be/REB6Cr0yASs
 
 ## Features :
  1. Browse products by categories or search for specific items
@@ -31,6 +31,10 @@ Website Demo Video link :
 ## Prescription Uploading Form
 
 ![Screenshot (359)](https://user-images.githubusercontent.com/71538839/234275004-053098ef-7665-4ecd-9474-f5354a7ca0ba.png)
+
+## Payment Form
+
+![Screenshot (360)](https://user-images.githubusercontent.com/71538839/234294906-f6876ffc-baf0-4013-bd40-d13445c2d32e.png)
 
 ## About Us
 
